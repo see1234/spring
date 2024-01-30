@@ -1,0 +1,19 @@
+.fixed-panel {
+    position: sticky;
+    top: 0;
+    background-color: #eee;
+}
+
+.scrollable-panel {
+    flex: 1;
+    overflow-x: hidden;
+}
+
+.card {
+    padding: 15px;
+    background-color: #ffecb5;
+}
+
+.card-header{
+    background-color: #ffecb5;
+}
