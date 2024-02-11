@@ -1,0 +1,7 @@
+com\example\demo\DemoApplication.class
+com\example\demo\repositories\UserRepository.class
+com\example\demo\controllers\UserController.class
+com\example\demo\service\UserService.class
+com\example\demo\model\User.class
+com\example\demo\aspects\TrackUserAction.class
+com\example\demo\aspects\UserActionLoggingAspect.class
