@@ -16,6 +16,12 @@ spring:
     username: sa
     password: password
     driverClassName: org.h2.Driver
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
   jpa:
     defer-datasource-initialization: true
   sql:
